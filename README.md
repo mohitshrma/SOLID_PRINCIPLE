@@ -12,6 +12,10 @@ Dependency Inversion Principle (DIP)
 
 
 
+![1720267190868](https://github.com/user-attachments/assets/a3498fd0-049e-457a-80a6-4b8d68e91ff2)
+
+
+
 **Contributing**
 Feel free to contribute additional examples or improvements:
 
@@ -23,9 +27,9 @@ Open a Pull Request
 
 **Learning Resources**
 
-SOLID Principles Explained
-Clean Code by Robert C. Martin
-Head First Design Patterns
+Essential Software Design Principles You Should Know Before the Interview
+Beginner's Guide to Object-Oriented Programming (OOP)
+Grokking the Object Oriented Design Interview
 
 **Notes**
 
