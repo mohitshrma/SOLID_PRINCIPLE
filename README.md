@@ -19,11 +19,6 @@ Dependency Inversion Principle (DIP)
 **Contributing**
 Feel free to contribute additional examples or improvements:
 
-**Fork the repository**
-Create your feature branch (git checkout -b feature/amazing-example)
-Commit your changes (git commit -m 'Add some amazing example')
-Push to the branch (git push origin feature/amazing-example)
-Open a Pull Request
 
 **Learning Resources**
 
